@@ -21,5 +21,7 @@ elif command == 'divide':
     if b != 0: 
         div = a/b
         print div 
-
+adding some errors here. 
 print ':)'
+
+print "all good." 
