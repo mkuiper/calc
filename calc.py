@@ -22,3 +22,4 @@ elif command == 'divide':
         div = a/b
         print div 
 
+print ':)'
